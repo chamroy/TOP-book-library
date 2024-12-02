@@ -84,5 +84,5 @@ form.addEventListener("submit", (e) => {
   dialog.close();
 });
 
-addBookToLibrary("The Hobbit", "J.R.R. Tolkien", 295, true);
-addBookToLibrary("The Catcher in the Rye", "J.D. Salinger", 277, false);
+addBookToLibrary("The Midnight Library", "Matt Haig", 304, true);
+addBookToLibrary("The Alchemist", "Paulo Coelho", 208, false);
